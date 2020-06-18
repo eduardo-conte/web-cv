@@ -1049,9 +1049,12 @@ section {
   padding: 15px;
   color: #f4f6fd;
   font-size: 14px;
-  position: fixed;
-  left: 0;
-  bottom: 0;
+  /* position: absolute; */
+  /* margin-right: -50%;
+    transform: translate(-50%, -50%); */
+    margin: auto;
+  /* left: 0;
+  bottom: 0; */
   width: 300px;
   z-index: 9999;
   background: #040b14;
